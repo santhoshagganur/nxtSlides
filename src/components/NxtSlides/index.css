@@ -1,0 +1,50 @@
+.header-container {
+  background-color: #dbeafe;
+  display: flex;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.app-logo {
+  height: 40px;
+  background-size: cover;
+  margin-right: 15px;
+}
+
+.app-name {
+  color: #0f172a;
+  font-family: 'Bree Serif';
+  font-size: 30px;
+  font-weight: 700;
+  margin-top: 0;
+}
+
+.bottom-container {
+  background-color: #f8fafc;
+}
+
+.new-button {
+  display: flex;
+  background-color: #dbeafe;
+  border-radius: 5px;
+  padding: 5px;
+  border-width: 0;
+  align-items: center;
+  margin: 20px;
+}
+
+.plus-icon {
+  height: 10px;
+  background-size: cover;
+  margin-right: 5px;
+}
+
+.button-text {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.left-slides-container {
+  list-style-type: none;
+}
